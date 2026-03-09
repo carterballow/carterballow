@@ -1,3 +1,6 @@
+<div align="center">
+
+### Hi, I'm
 ```
  ██████╗ █████╗ ██████╗ ████████╗███████╗██████╗     ██████╗  █████╗ ██╗     ██╗      ██████╗ ██╗    ██╗
 ██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗    ██╔══██╗██╔══██╗██║     ██║     ██╔═══██╗██║    ██║
@@ -6,7 +9,8 @@
 ╚██████╗██║  ██║██║  ██║   ██║   ███████╗██║  ██║    ██████╔╝██║  ██║███████╗███████╗╚██████╔╝╚███╔███╔╝
  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝  ╚══╝╚══╝ 
 ```
-Hello I'm 
+</div>
+![Visitors](https://komarev.com/ghpvc/?username=carterballow&style=for-the-badge&color=blueviolet)
 ### What I'm up to
 
 - 🏆 **QWERHACKS 2026** — 2nd Place Innovate Track & Best Web App
@@ -14,7 +18,6 @@ Hello I'm
 - 🍊 **Ballow Fruit Company** — Full-stack e-commerce platform for a 10-year family mission
 - 🎨 **Portfolio v2** — An MS Paint clone. Because why not.
 
-![Visitors](https://komarev.com/ghpvc/?username=carterballow&style=for-the-badge&color=blueviolet)
 ## Tech
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
