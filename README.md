@@ -15,9 +15,9 @@
 
 ### Projects
 
-- 🏆 **QWERHACKS 2026** — 2nd Place Innovate Track & Best Web App
-- 🍊 **Ballow Fruit Company** — E-commerce platform for a 10-year family mission
-- 🎨 **Portfolio v3** — An MS Paint clone.
+- 🏆 [**LearnHacks**](https://github.com/carterballow/LearnHub) — 2nd Place Innovate Track & Best Web App @ Qwer Hacks.
+- 🎨 [**Paint Portfolio**](https://github.com/carterballow/MSPaintPortfolio) — An MS Paint inspired portfolio to showcase projects.
+- 🍊 [**Ballow Fruit Co**](https://github.com/carterballow/BallowFruitCo) — E-commerce platform for my family's non-profit.
 
 ## Tech
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
