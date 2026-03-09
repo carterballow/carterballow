@@ -6,6 +6,14 @@
 ╚██████╗██║  ██║██║  ██║   ██║   ███████╗██║  ██║    ██████╔╝██║  ██║███████╗███████╗╚██████╔╝╚███╔███╔╝
  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝  ╚══╝╚══╝ 
 ```
+Hello I'm 
+### What I'm up to
+
+- 🏆 **QWERHACKS 2026** — 2nd Place Innovate Track & Best Web App
+- 🤖 **AI Safety @ UCLA** — Governance track fellow
+- 🍊 **Ballow Fruit Company** — Full-stack e-commerce platform for a 10-year family mission
+- 🎨 **Portfolio v2** — An MS Paint clone. Because why not.
+
 ![Visitors](https://komarev.com/ghpvc/?username=carterballow&style=for-the-badge&color=blueviolet)
 ## Tech
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -23,3 +31,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
