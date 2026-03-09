@@ -12,12 +12,12 @@
 </div>
 
 ![Visitors](https://komarev.com/ghpvc/?username=carterballow&style=for-the-badge&color=blueviolet)
-### What I'm up to
+
+### Projects
 
 - 🏆 **QWERHACKS 2026** — 2nd Place Innovate Track & Best Web App
-- 🤖 **AI Safety @ UCLA** — Governance track fellow
-- 🍊 **Ballow Fruit Company** — Full-stack e-commerce platform for a 10-year family mission
-- 🎨 **Portfolio v2** — An MS Paint clone. Because why not.
+- 🍊 **Ballow Fruit Company** — E-commerce platform for a 10-year family mission
+- 🎨 **Portfolio v3** — An MS Paint clone.
 
 ## Tech
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
