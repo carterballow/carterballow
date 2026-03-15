@@ -1,5 +1,4 @@
-<div>
-
+<div align="center">
 ## Hi, I'm ↴
 ```
  ██████╗ █████╗ ██████╗ ████████╗███████╗██████╗     ██████╗  █████╗ ██╗     ██╗      ██████╗ ██╗    ██╗
@@ -9,18 +8,62 @@
 ╚██████╗██║  ██║██║  ██║   ██║   ███████╗██║  ██║    ██████╔╝██║  ██║███████╗███████╗╚██████╔╝╚███╔███╔╝
  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝  ╚══╝╚══╝ 
 ```
-<img src="./brawl.jpg" alt="Brawl" width="800" />
-</div>
 
 ![Visitors](https://komarev.com/ghpvc/?username=carterballow&style=for-the-badge&color=blueviolet)
 
-### Projects
+</div>
 
-- [**LearnHub**](https://github.com/carterballow/LearnHub) — 2nd Place Innovate Track & Best Web App @ Qwer Hacks 2026.
-- [**MS Paint Portfolio**](https://github.com/carterballow/MSPaintPortfolio) — An MS Paint inspired portfolio to showcase projects.
-- [**Ballow Fruit Co**](https://github.com/carterballow/BallowFruitCo) — E-commerce platform for my family's non-profit.
+&nbsp;
 
-## Tech
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="55%">
+
+<h2>Projects</h2>
+
+<br>
+
+<h3><a href="https://github.com/carterballow/LearnHub">LearnHub</a></h3>
+<sub>2nd Place Innovate Track & Best Web App @ Qwer Hacks 2026</sub>
+
+<br><br>
+
+<h3><a href="https://github.com/carterballow/MSPaintPortfolio">Paint Portfolio</a></h3>
+<sub>An MS Paint inspired portfolio to showcase projects</sub>
+
+<br><br>
+
+<h3><a href="https://github.com/carterballow/BallowFruitCo">Ballow Fruit Co</a></h3>
+<sub>E-commerce platform for my family's non-profit</sub>
+
+<br><br>
+
+</td>
+<td valign="center" width="45%" align="center">
+
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td><img src="./brawl.jpg" width="380" /></td>
+<td width="5" bgcolor="#7c3aed"></td>
+</tr>
+<tr>
+<td height="5" bgcolor="#7c3aed"></td>
+<td width="5" height="5" bgcolor="#7c3aed"></td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+&nbsp;
+
+<div align="center">
+
+<h2>Tech</h2>
+
+<br>
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,3 +80,4 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+</div>
