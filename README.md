@@ -1,6 +1,8 @@
 <div align="center">
+
+## Hi, I'm ↴
+
 ```
- ## Hi, I'm ↴
  ██████╗ █████╗ ██████╗ ████████╗███████╗██████╗     ██████╗  █████╗ ██╗     ██╗      ██████╗ ██╗    ██╗
 ██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗    ██╔══██╗██╔══██╗██║     ██║     ██╔═══██╗██║    ██║
 ██║     ███████║██████╔╝   ██║   █████╗  ██████╔╝    ██████╔╝███████║██║     ██║     ██║   ██║██║ █╗ ██║
@@ -12,7 +14,6 @@
 ![Visitors](https://komarev.com/ghpvc/?username=carterballow&style=for-the-badge&color=blueviolet)
 
 </div>
-
 &nbsp;
 
 <table border="0" cellspacing="0" cellpadding="0">
