@@ -16,9 +16,9 @@
 
 ### Projects
 
-- 🏆 [**LearnHub**](https://github.com/carterballow/LearnHub) — 2nd Place Innovate Track & Best Web App @ Qwer Hacks 2026.
-- 🎨 [**Paint Portfolio**](https://github.com/carterballow/MSPaintPortfolio) — An MS Paint inspired portfolio to showcase projects.
-- 🍊 [**Ballow Fruit Co**](https://github.com/carterballow/BallowFruitCo) — E-commerce platform for my family's non-profit.
+- [**LearnHub**](https://github.com/carterballow/LearnHub) — 2nd Place Innovate Track & Best Web App @ Qwer Hacks 2026.
+- [**MS Paint Portfolio**](https://github.com/carterballow/MSPaintPortfolio) — An MS Paint inspired portfolio to showcase projects.
+- [**Ballow Fruit Co**](https://github.com/carterballow/BallowFruitCo) — E-commerce platform for my family's non-profit.
 
 ## Tech
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
