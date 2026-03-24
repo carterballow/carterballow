@@ -24,7 +24,7 @@
 
 <br>
 
-<h3><a href="https://github.com/carterballow/LearnHub">LearnHub</a></h3>
+<h3><a href="https://github.com/carterballow/LearningHub">LearningHub</a></h3>
 <sub>2nd Place Innovate Track & Best Web App @ Qwer Hacks 2026</sub>
 
 <br><br>
